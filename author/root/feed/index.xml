@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>root &#8211; raam&#039;s Blog!</title>
+	<atom:link href="http://127.0.0.1/wordpress/author/root/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 07 Aug 2021 14:45:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Batticaloa</title>
+		<link>./../../../2021/07/29/hello-world/index.html</link>
+					<comments>./../../../2021/07/29/hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 05:58:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Welcome to Batticaloa Home page]]></description>
+										<content:encoded><![CDATA[<p class="has-text-align-center">Welcome to Batticaloa Home page</p>
+
+
+<!--themify_builder_content-->
+<div id="themify_builder_content-1" data-postid="1" class="themify_builder_content themify_builder_content-1 themify_builder tf_clear">
+    </div>
+<!--/themify_builder_content-->]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/07/29/hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
